@@ -10,4 +10,4 @@ Only authenticated user can post Blog Articles!
 
 In this Project I build simple Resume
 
-![](image/Screenshot%20(984).png)
+![](Screenshots/Screenshot%20(984).png)
