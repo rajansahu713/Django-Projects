@@ -1,6 +1,7 @@
 # Working-with-Django
 
-#Blog 
+# Blog 
 
 It is simple blog website.
+
 Only authenticated user can post Blog Articles!
